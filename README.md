@@ -1,4 +1,23 @@
-# bar-cookbook
+xyznc Cookbook
+==============
+An alternative Chef cookbook for installing the ZNC IRC bouncer.
 
-TODO: Enter the cookbook description here.
+Requirements
+============
+TODO
 
+Attributes
+==========
+TODO
+
+Usage
+=====
+TODO
+
+Development
+===========
+TODO
+
+Testing
+=======
+TODO
