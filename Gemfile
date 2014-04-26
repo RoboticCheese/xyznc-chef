@@ -26,3 +26,4 @@ end
 
 gem 'chef'
 gem 'berkshelf'
+gem 'poise'
